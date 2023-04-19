@@ -214,10 +214,11 @@ footer svg {
     .menu-text {
         flex-direction: column;
         text-align: center;
+        padding-top: 20px
     }
     
     .menu-text img {
-        width:100px
+        width:200px
     }
 
     .objetivos {
