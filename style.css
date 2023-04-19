@@ -215,6 +215,10 @@ footer svg {
         flex-direction: column;
         text-align: center;
     }
+    
+    .menu-text img {
+        width:300px
+    }
 
     .menu-text img {
         width: 300px;
